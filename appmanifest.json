@@ -1,0 +1,17 @@
+{
+	"name": "Bingo",
+	"short_name": "Bingo",
+	"description": "igreja",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/pss.png",
+			"sizes": "1080x1080",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
